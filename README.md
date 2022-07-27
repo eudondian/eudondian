@@ -16,13 +16,11 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <hr>
 
 
-![github](https://user-images.githubusercontent.com/90483434/179346376-d7f8b1fc-2beb-4384-a578-ca4e872b278f.svg)
+![github](https://user-images.githubusercontent.com/90483434/179346376-d7f8b1fc-2beb-4384-a578-ca4e872b278f.svg) [githubhandle](https://github.com/eudondian)
 
-![linkedin](https://user-images.githubusercontent.com/90483434/179346391-d60006ee-76c9-4667-baa7-43f3c685fe33.svg)
+![linkedin](https://user-images.githubusercontent.com/90483434/179346391-d60006ee-76c9-4667-baa7-43f3c685fe33.svg) [LinkedIn](https://www.linkedin.com/in/esther-udondian-186849119/)
 
-![M-vector](https://user-images.githubusercontent.com/90483434/179346392-a823e80e-6c79-4bfb-a94c-1ebda8a85259.svg)
-
-![twitter](https://user-images.githubusercontent.com/90483434/179346393-59730907-4fe0-4299-95ad-8502d62c46c3.svg)
+![twitter](https://user-images.githubusercontent.com/90483434/179346393-59730907-4fe0-4299-95ad-8502d62c46c3.svg) [twitterhandle](https://twitter.com/eudondian)
 
 <hr>
 
