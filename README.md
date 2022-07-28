@@ -16,11 +16,10 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <hr>
 
 
-![github](https://user-images.githubusercontent.com/90483434/179346376-d7f8b1fc-2beb-4384-a578-ca4e872b278f.svg) [githubhandle](https://github.com/eudondian)
 
-![linkedin](https://user-images.githubusercontent.com/90483434/179346391-d60006ee-76c9-4667-baa7-43f3c685fe33.svg) [LinkedIn](https://www.linkedin.com/in/esther-udondian-186849119/)
-
-![twitter](https://user-images.githubusercontent.com/90483434/179346393-59730907-4fe0-4299-95ad-8502d62c46c3.svg) [twitterhandle](https://twitter.com/eudondian)
+[<img src="https://user-images.githubusercontent.com/102174805/177940734-da66452d-c0fa-4141-b6d1-878ef1a5dc16.png" alt="linkedIn" width="50px"/>](https://www.linkedin.com/in/esther-udondian-186849119/)
+[<img src="https://user-images.githubusercontent.com/102174805/177942630-84b2d0ab-48f0-4ece-afee-4a6748d61c39.png" alt="Twitter" width="50px"/>](https://twitter.com/eudondian)
+[<img src="https://user-images.githubusercontent.com/102174805/177946832-80d3981d-fac9-44ce-8216-5fb10b6ce57d.png" alt="Gmail" width="47px"/>](mailto:eudondian@gmail.com)
 
 <hr>
 
