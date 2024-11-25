@@ -11,7 +11,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 🌱 I’m currently learning through remote pair programming.
 
-- 👯 I’m looking forward to collaborate with other software developers .
+- 👯 I’m looking forward to collaborating with other software developers.
 
 <hr>
 
